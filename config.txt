@@ -29,7 +29,7 @@ owner = 423145212844703745
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix = "@mention"
+prefix = 1
 
 
 // If you set this, it modifies the default game of the bot
@@ -39,7 +39,7 @@ prefix = "@mention"
 // where X is the title. If you don't include an action, it will use the
 // default of "Playing"
 
-game = "DEFAULT"
+game = 1play
 
 
 // If you set this, it will modify the default status of bot
@@ -89,7 +89,7 @@ npimages = false
 // Keep in mind that being connected to a voice channel uses additional bandwith,
 // so this option is not recommended if bandwidth is a concern.
 
-stayinchannel = false
+stayinchannel = true
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
