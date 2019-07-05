@@ -1,6 +1,6 @@
-token=NTY3MTIyNzAwMzAwOTc2MTM4.XR6ddQ.o5gw85KhXj37Vh4DDiwm1Y1DQO0
+token=NTg4MDAzNzkyOTU2NTU1Mjc0.XR6lnA.FZG6Nk-_4vgZAnKqXMaiJuoM6Zo
 owner=423145212844703745
-prefix=Av
+prefix=1
 stayinchannel=true
-game=Avtar-Music
+game=1play
 songinstatus=false
