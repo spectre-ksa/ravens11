@@ -1,0 +1,6 @@
+token=
+owner=
+prefix=
+stayinchannel=True
+game=
+songinstatus=
