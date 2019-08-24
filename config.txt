@@ -1,6 +1,6 @@
-token=
-owner=
-prefix=
-stayinchannel=True
-game=
-songinstatus=
+token=NTg4MDAzNzkyOTU2NTU1Mjc0.XWDkPg.g6Bpa_QsNALX06Dufd1e_Az_j-M
+owner=423145212844703745
+prefix=1
+stayinchannel=true
+game=Type 1play
+songinstatus=false
