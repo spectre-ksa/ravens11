@@ -1,6 +1,7 @@
-token=NjIxMDAyOTcxMjY5ODI0NTEz.XY0YhA.-5D7IUTV6pKHOqFg1z_sNzA0qkA
-owner=269788091483553794
-prefix=.
-stayinchannel=true
-game=Type .play
-songinstatus=false
+?token=NTM1NTk3NjA1NzI0MzU2NjE4.DyKeag.OYgXbTF14JTbD-vg-w3RZ46-9BU
+owner=525267206884556800
+prefix=f
+game=Listening to Fhelp
+stayinchannel=false
+songinstatus=true
+to.ken=NTM1NTk3NjA1NzI0MzU2NjE4.DyKeag.OYgXbTF14JTbD-vg-w3RZ46-9BU
