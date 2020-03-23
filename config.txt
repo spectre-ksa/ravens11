@@ -1,6 +1,6 @@
-owner=525267206884556800
-prefix=f
-game=Listening to Fhelp
+owner=ID
+prefix=prefix
+game=Listening to 
 stayinchannel=false
 songinstatus=true
-token=NTM1NTk3NjA1NzI0MzU2NjE4.DyKeag.OYgXbTF14JTbD-vg-w3RZ46-9BU
+token=token
