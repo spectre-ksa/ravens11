@@ -1,6 +1,6 @@
-owner=ID
-prefix=prefix
-game=Listening to 
+owner=434642311591493632
+prefix=r
+game=Listening to Ravens is the best / Rhelp
 stayinchannel=false
 songinstatus=true
-token=token
+token=Njk4MzkzMjg2MTU0NjQ5NjEw.XpFN8Q.H7RZHD5w0bRVEjNCI0klS7CWubY
